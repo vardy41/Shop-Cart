@@ -1,3 +1,3 @@
-Mały projekt logiki sklepu
+#Mały projekt logiki sklepu
 
 ---------------------------
