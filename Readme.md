@@ -1,0 +1,3 @@
+Mały projekt logiki sklepu
+
+---------------------------
