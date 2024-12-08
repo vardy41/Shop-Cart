@@ -28,4 +28,6 @@ Jest to klasa, która symuluje obsługę produktu znajdującego się w koszyku p
 
 Jej zadaniem jest przechowywanie produktów w tym przypadku klasy CartItem , posiada metody dodawania produktów do koszyka, dodawania rabatu na cały koszyk a także wyświetla dane takie jak calkowity koszt, zaoszczedzone pieniadze (w przypadku gdy mamy rabat)
 
-# Kod miejscami może wymagać uporządkowania, niektóre walidacje są pisane z "palca" a powinny byc importowane z pliku Validators.ts , który został stworzony do przechowywania walidacji oraz ich użycia gdy jest to potrzebne
+## Ważne
+
+Kod miejscami może wymagać uporządkowania, niektóre walidacje są pisane z "palca" a powinny byc importowane z pliku Validators.ts , który został stworzony do przechowywania walidacji oraz ich użycia gdy jest to potrzebne
