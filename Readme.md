@@ -5,6 +5,12 @@
 ## Opis
 
 Prosta logika obsługi koszyka, produktu w koszyku oraz rabatów
+Stworzona za pomocą TypeScripta oraz przetestowana za pomocą Jest
+
+Użyte technologie:
+
+- Typescript
+- Jest
 
 ### Klasy Discount i Product
 
@@ -16,7 +22,7 @@ Obsługuję logike rabatów w oparciu korzystając z klasy Discount
 
 ### Klasa CartItem
 
-Jest to klasa, która symuluje obsługę produktu znajdującego się w koszyku
+Jest to klasa, która symuluje obsługę produktu znajdującego się w koszyku przy użyciu klasy Product
 
 ### Klasa Cart
 
